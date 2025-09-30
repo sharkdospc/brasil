@@ -18,7 +18,7 @@
 ## Estrutura do Projeto
 
 - `index.html` - Página principal com todo o conteúdo
-- Imagens incorporadas via URL do Unsplash
+- Imagens incorporadas
 - CSS deixa o site mais bonito vizualmente
 - Navegação suave entre seções
 - Design responsivo
@@ -39,10 +39,10 @@
 
 ## Créditos
 
-- Imagens: [Unsplash](https://unsplash.com)
-- Conteúdo: Diversas fontes educacionais, IBGE, e referências culturais
-- Inspiração: Diversidade cultural e natural do Brasil
+- Imagens: diversas fontes, exemplo: pinterest etc
+- Conteúdo: Diversas fontes educacionais,como por exemplo o  IBGE e referências culturais
+- Inspiração: Diversidade cultural e natural do nosso Brasil
 
 ## Link de Publicação
 
-[Inserir aqui o link do GitHub Pages após publicação]
+https://sharkdospc.github.io/brasil/
